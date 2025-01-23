@@ -1,0 +1,34 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        },
+        {
+            "type": "directory",
+            "source": "kt_item",
+            "prefix": "kt_item/"
+        },
+        {
+            "type": "directory",
+            "source": "kt_hat",
+            "prefix": "kt_hat/"
+        },
+        {
+            "type": "directory",
+            "source": "kt_gui",
+            "prefix": "kt_gui/"
+        },
+        {
+            "type": "directory",
+            "source": "kt_werewolf",
+            "prefix": "kt_werewolf/"
+        },
+        {
+            "type": "directory",
+            "source": "furniture",
+            "prefix": "furniture/"
+        }
+    ]
+}

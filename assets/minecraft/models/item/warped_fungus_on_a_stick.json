@@ -1,0 +1,40 @@
+{
+	"parent": "minecraft:item/handheld_rod",
+    "textures": {
+      "layer0": "minecraft:item/warped_fungus_on_a_stick"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":23301}, "model": "minecraft:item/redstone_torch"},
+		{"predicate": {"custom_model_data":23302}, "model": "minecraft:item/clock"},
+		{"predicate": {"custom_model_data":23303}, "model": "minecraft:item/barrier"},
+		{"predicate": {"custom_model_data":23304}, "model": "minecraft:item/apple"},
+		{"predicate": {"custom_model_data":23305}, "model": "minecraft:item/minecart"},
+		{"predicate": {"custom_model_data":23306}, "model": "minecraft:item/redstone_block"},
+		{"predicate": {"custom_model_data":23307}, "model": "kt:kt_werewolf/challenge"},
+		{"predicate": {"custom_model_data":23308}, "model": "minecraft:item/apple"},
+		{"predicate": {"custom_model_data":23309}, "model": "minecraft:item/chest_minecart"},
+		{"predicate": {"custom_model_data":23310}, "model": "minecraft:item/coal"},
+		{"predicate": {"custom_model_data":23311}, "model": "minecraft:item/tnt"},
+		{"predicate": {"custom_model_data":23312}, "model": "kt:kt_werewolf/forensic"},
+		{"predicate": {"custom_model_data":23313}, "model": "minecraft:item/filled_map"},
+		{"predicate": {"custom_model_data":23314}, "model": "minecraft:item/light_15"},
+		{"predicate": {"custom_model_data":23315}, "model": "minecraft:item/diamond_helmet"},
+		{"predicate": {"custom_model_data":23316}, "model": "minecraft:item/filled_map"},
+		{"predicate": {"custom_model_data":23317}, "model": "minecraft:item/honey_bottle"},
+		{"predicate": {"custom_model_data":23318}, "model": "minecraft:item/ender_pearl"},
+		{"predicate": {"custom_model_data":23319}, "model": "minecraft:item/golden_chestplate"},
+		{"predicate": {"custom_model_data":23320}, "model": "minecraft:block/iron_block"},
+		{"predicate": {"custom_model_data":23321}, "model": "minecraft:item/glass_bottle"},
+		{"predicate": {"custom_model_data":23322}, "model": "minecraft:item/feather"},
+		{"predicate": {"custom_model_data":23323}, "model": "minecraft:item/ominous_bottle"},
+		{"predicate": {"custom_model_data":23324}, "model": "kt:kt_werewolf/rifle"},
+		{"predicate": {"custom_model_data":23325}, "model": "minecraft:item/stone_shovel"},
+		{"predicate": {"custom_model_data":23326}, "model": "minecraft:item/heart_of_the_sea"},
+		{"predicate": {"custom_model_data":23327}, "model": "minecraft:item/bundle"},
+		{"predicate": {"custom_model_data":23328}, "model": "minecraft:item/chainmail_chestplate"},
+		{"predicate": {"custom_model_data":23329}, "model": "minecraft:item/netherite_chestplate"},
+		{"predicate": {"custom_model_data":23330}, "model": "minecraft:item/totem_of_undying"},
+		{"predicate": {"custom_model_data":23331}, "model": "minecraft:item/echo_shard"},
+		{"predicate": {"custom_model_data":23332}, "model": "minecraft:item/ender_eye"}
+	]
+}

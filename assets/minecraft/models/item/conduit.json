@@ -1,0 +1,69 @@
+{
+    "parent": "builtin/entity",
+    "textures": {
+        "particle": "block/conduit"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 1.0, 1.0, 1.0 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0],
+            "scale":[ 0.5, 0.5, 0.5 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 1, 1, 1]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 1, 1, 1 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale": [ 0.8, 0.8, 0.8 ]
+        }
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":23301}, "model": "kt:kt_hat/shenshimao"},
+		{"predicate": {"custom_model_data":23302}, "model": "kt:kt_hat/shilaimu"},
+		{"predicate": {"custom_model_data":23303}, "model": "kt:kt_hat/luobo"},
+		{"predicate": {"custom_model_data":23304}, "model": "kt:kt_hat/guanghuan"},
+		{"predicate": {"custom_model_data":23305}, "model": "kt:kt_hat/cat1"},
+		{"predicate": {"custom_model_data":23306}, "model": "kt:kt_hat/cat2"},
+		{"predicate": {"custom_model_data":23307}, "model": "kt:kt_hat/mojing"},
+		{"predicate": {"custom_model_data":23308}, "model": "kt:kt_hat/danbian"},
+		{"predicate": {"custom_model_data":23309}, "model": "kt:kt_hat/dianhan"},
+		{"predicate": {"custom_model_data":23310}, "model": "kt:kt_hat/maoer"},
+		{"predicate": {"custom_model_data":23311}, "model": "kt:kt_hat/caomao"},
+		{"predicate": {"custom_model_data":23312}, "model": "kt:kt_hat/toushanggao"},
+		{"predicate": {"custom_model_data":23313}, "model": "kt:kt_hat/mingwang"},
+		{"predicate": {"custom_model_data":23314}, "model": "kt:kt_hat/wumao"},
+		{"predicate": {"custom_model_data":23315}, "model": "kt:kt_hat/wsj"},
+		{"predicate": {"custom_model_data":23316}, "model": "kt:kt_hat/nangua"},
+		{"predicate": {"custom_model_data":23317}, "model": "kt:kt_hat/suwakohat"},
+		{"predicate": {"custom_model_data":23318}, "model": "kt:kt_hat/flandre"},
+		{"predicate": {"custom_model_data":23319}, "model": "kt:kt_hat/yukari"},
+		{"predicate": {"custom_model_data":23320}, "model": "kt:kt_hat/headsword"},
+		{"predicate": {"custom_model_data":23321}, "model": "kt:kt_hat/tenshi"},
+		{"predicate": {"custom_model_data":23322}, "model": "kt:kt_hat/blackhat"},
+		{"predicate": {"custom_model_data":23323}, "model": "kt:kt_hat/whitehat"},
+		{"predicate": {"custom_model_data":23324}, "model": "kt:kt_hat/question"},
+		{"predicate": {"custom_model_data":23325}, "model": "kt:kt_hat/paimon"},
+		{"predicate": {"custom_model_data":23326}, "model": "kt:kt_hat/remihat"},
+		{"predicate": {"custom_model_data":23327}, "model": "kt:kt_hat/flanhat"},
+		{"predicate": {"custom_model_data":23328}, "model": "kt:kt_hat/christmashat"},
+		{"predicate": {"custom_model_data":23329}, "model": "kt:kt_hat/sword"}
+	]
+}
